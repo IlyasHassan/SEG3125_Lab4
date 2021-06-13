@@ -10,7 +10,10 @@ p{
 }
 ul {
     list-style-type: none;
-  }
+}
+h1{
+    justify-content: center;
+}
 
 #nonecontainer{
     border-style: solid !important;
