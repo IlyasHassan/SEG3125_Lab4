@@ -45,3 +45,6 @@ h1{
     border-style: solid !important;
     border-radius: 25px !important;
 }
+.card{
+    object-fit: cover;
+}
