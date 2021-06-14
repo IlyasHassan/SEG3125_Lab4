@@ -58,7 +58,7 @@ h1{
     border-color: #ffc720;
 }
 .card{
-    object-fit: cover;
+    object-fit: cover !important;
     border-color: #ffc720;
 }
 #aboutuss{
