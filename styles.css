@@ -22,35 +22,42 @@ h1{
     border-style: solid !important;
     border-radius: 25px !important;
     border-width: thin;
+    border-color: #ffc720
 
 }
 #ntwocontainer{
     border-style: solid !important;
     border-radius: 25px !important;
     border-width: thin;
+    border-color: #ffc720
 }
 #nthreecontainer{
     border-style: solid !important;
     border-radius: 25px !important;
     border-width: thin;
+    border-color: #ffc720
 
 }
 #nfourcontainer{
     border-style: solid !important;
     border-radius: 25px !important;
     border-width: thin;
+    border-color: #ffc720
 }
 #nfivecontainer{
     border-style: solid !important;
     border-radius: 25px !important;
     border-width: thin;
+    border-color: #ffc720
 
 }
 #nsixcontainer{
     border-style: solid !important;
     border-radius: 25px !important;
     border-width: thin;
+    border-color: #ffc720
 }
 .card{
     object-fit: cover;
+    border-color: #ffc720
 }
