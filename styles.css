@@ -21,11 +21,13 @@ h1{
 #nonecontainer{
     border-style: solid !important;
     border-radius: 25px !important;
+    border-width: thin;
 
 }
 #ntwocontainer{
     border-style: solid !important;
     border-radius: 25px !important;
+    border-width: thin;
 }
 #nthreecontainer{
     border-style: solid !important;
