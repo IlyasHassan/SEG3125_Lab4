@@ -32,20 +32,24 @@ h1{
 #nthreecontainer{
     border-style: solid !important;
     border-radius: 25px !important;
+    border-width: thin;
 
 }
 #nfourcontainer{
     border-style: solid !important;
     border-radius: 25px !important;
+    border-width: thin;
 }
 #nfivecontainer{
     border-style: solid !important;
     border-radius: 25px !important;
+    border-width: thin;
 
 }
 #nsixcontainer{
     border-style: solid !important;
     border-radius: 25px !important;
+    border-width: thin;
 }
 .card{
     object-fit: cover;
