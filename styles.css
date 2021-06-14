@@ -62,7 +62,8 @@ h1{
     border-color: #ffc720;
 }
 #aboutuss{
-    border-color: #ffc720;
-    border-width: thin;
-    justify-content:center;
+    border-color: #ffc720 !important;
+    border-width: thin !important;
+    justify-content:center !important;
+    border-radius: 25px !important;
 }
