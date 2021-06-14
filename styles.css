@@ -60,6 +60,7 @@ h1{
 .card{
     object-fit: cover !important;
     border-color: #ffc720;
+    justify-content: center !important;
 }
 #aboutuss{
     border-color: #ffc720 !important;
